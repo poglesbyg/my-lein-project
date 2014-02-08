@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+A leiningen project to figure out both clojure and clojurescript. Usage? Well that would be learning.
 
 ## License
 
